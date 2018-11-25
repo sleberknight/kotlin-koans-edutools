@@ -1,0 +1,9 @@
+out
+workspace.xml
+
+.gradle
+build
+local.properties
+
+.idea
+*.iml
